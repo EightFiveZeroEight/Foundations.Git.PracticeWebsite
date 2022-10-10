@@ -2,10 +2,12 @@
     /* Zero'd out most inherited stylings */
     border: 0px;
     margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
     list-style: none; 
     color: #ffffff;
     background-color: #23272a;
+    justify-content: center;
 }
 
 a {
@@ -25,7 +27,12 @@ body,
 .navbar,
 .headerBottom,
 main,
+h1,
+.callToActionButton,
 .article,
+.articleHeader,
+.articleBody,
+.articleFooter,
 footer,
 .firstFooterColumn,
 .secondFooterColumn,
@@ -48,4 +55,8 @@ main,
 }
 /* End of Flexbox Column */
 
+.headerTop{
+    justify-content: space-between;
+    
+}
 
