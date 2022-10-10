@@ -18,7 +18,7 @@ a {
 #2c2f33 gray background
 #23272a dark gray background */
 
-/* Flex Creation */
+/* Start of Flex Tagging */
 body,
 .allHeaders,
 .headerTop,
@@ -29,7 +29,23 @@ main,
 footer,
 .firstFooterColumn,
 .secondFooterColumn,
-.thirdFooterColumn{
+.thirdFooterColumn,
+.footerLinkColumn{
     display:flex;
 }
-/* end of Flex Creation */
+/* end of Flex Tagging */
+
+
+/* Start of Flexbox Column */
+body,
+.allHeaders,
+main,
+.article,
+.firstFooterColumn,
+.secondFooterColumn,
+.footerLinkColumn{
+    flex-direction: column;
+}
+/* End of Flexbox Column */
+
+
