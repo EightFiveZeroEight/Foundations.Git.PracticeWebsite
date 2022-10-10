@@ -18,3 +18,18 @@ a {
 #2c2f33 gray background
 #23272a dark gray background */
 
+/* Flex Creation */
+body,
+.allHeaders,
+.headerTop,
+.navbar,
+.headerBottom,
+main,
+.article,
+footer,
+.firstFooterColumn,
+.secondFooterColumn,
+.thirdFooterColumn{
+    display:flex;
+}
+/* end of Flex Creation */
