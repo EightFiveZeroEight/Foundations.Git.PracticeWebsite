@@ -4,10 +4,17 @@
     margin: 0px;
     box-sizing: border-box;
     list-style: none; 
+    color: #ffffff;
+    background-color: #23272a;
+}
+
+a {
+    color: #7298da;
 }
 
 /* #7289da blue highlight
-#ffffff darkest background
+#ffffff text white background
 #99aab5 lightest background
 #2c2f33 gray background
 #23272a dark gray background */
+
