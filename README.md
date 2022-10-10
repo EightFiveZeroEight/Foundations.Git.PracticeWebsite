@@ -9,7 +9,7 @@ The website should be professionally styled. While this is subjective, some good
 - call-to-action buttons
 - Link don't need to lead anywhere.
 
-- consistent color palette
+- consistent color palette  https://colorswall.com/palette/181/
 - responsive to mobile and desktop
 - Clear navigation and links
 - Clear visual hierarchy
